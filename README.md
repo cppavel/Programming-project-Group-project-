@@ -1,7 +1,7 @@
 # Programming-project-Group-project
 A project I developed with Enda, Brian and Filip as a part of Programming project module. We used SVN as a version control system. 
 
-# Project Report: [Link](https://github.com/cppavel/Programming-project-Group-project-/blob/master/CS1013-report-36.pdf).
+# Project Report: [Link](https://github.com/cppavel/Programming-project-Group-project-/blob/master/CS1013-report-36.pdf)
 
 # 1 Launching our program
 The program works with standard .csv ﬁles. It requires a ﬁle called ”daily prices2GB.csv” to be put in the folder with the main script (Stocks.pde). If you want to test the program on a smaller dataset, simply change the ﬁle by renaming it to ”daily prices2GB.csv”. We do not have a 2GB ﬁle on our svn repository. Therefore, when you check out the ”Stocks” folder on your PC, put your local copy of the 2GB ﬁle to the folder.
