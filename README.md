@@ -1,4 +1,4 @@
-# Programming-project-Group-project-
+# Programming-project-Group-project
 A project I developed with Enda, Brian and Filip as a part of Programming project module. We used SVN as a version control system. 
 
 # Project Report: [Link](https://github.com/cppavel/Programming-project-Group-project-/blob/master/CS1013-report-36.pdf).
